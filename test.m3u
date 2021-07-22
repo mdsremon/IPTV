@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,1.Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,EDGE Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1,CGTN
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
